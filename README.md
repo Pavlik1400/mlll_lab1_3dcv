@@ -8,3 +8,10 @@
 - Task 2 - Pavlo Hilei
 - Task 3 - Maksym Bilyk
 - Task 4 - Maksym Bilyk
+
+## Installation instructions
+### Conda
+```bash
+conda create --name mlll_hw1 -y
+conda install -c conda-forge matplotlib -y
+```
